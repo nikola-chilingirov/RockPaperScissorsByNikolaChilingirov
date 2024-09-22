@@ -21,3 +21,5 @@ With if-else statement are solve the issues about the choice of the player, the 
 Screeshot
 
 ![image](https://github.com/user-attachments/assets/eaa66823-eb2f-46ec-8546-33f2631a46dc)
+
+
