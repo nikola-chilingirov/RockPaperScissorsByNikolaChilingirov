@@ -16,4 +16,4 @@ For colored output it is used **Colorama**. It is cross-platform colored termina
 
 With if-else statement are solve the issues about the choice of the player, the random choice of computer and which of the choices is winning. For the random choice of the computer it is used **"randint()"** method from build-in library **"random"**. **"randint"** accepts two parameters, both inclusive and returns a random number in this range.
 
-[Source Code]() 
+[Source Code](https://github.com/nikola-chilingirov/RockPaperScissorsByNikolaChilingirov/blob/main/rock_paper_scissors.py) 
