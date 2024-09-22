@@ -22,5 +22,5 @@ Screeshot
 
 ![image](https://github.com/user-attachments/assets/eaa66823-eb2f-46ec-8546-33f2631a46dc)
 
-[Live Demo](https://replit.com/@nchilingirovz/RockPaperScissors#main.py)
+[Live Demo](https://replit.com/@nchilingirovz/RockPaperScissors)
 
